@@ -1,1 +1,1 @@
-# blog-site
+# blog-site (MongoDB, Express, ReactJS, NodeJS)
